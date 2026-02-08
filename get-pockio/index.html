@@ -44,7 +44,25 @@
   </style>
 </head>
 
-<body>
+<body onload="redirectToStore()">
+  <script>
+    function redirectToStore() {
+      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+      if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        window.location.href =
+          "https://apps.apple.com/us/app/pockio-family-money-chores/id6758463658"; 
+      }
+
+      else if (/android/i.test(userAgent)) {
+        window.location.href =
+          "https://play.google.com/store/apps/details?id=com.pockio.money.jar";
+      }
+      else {
+        window.location.href = "https://pockio.app/"; 
+      }
+    }
+  </script>
   <div class="container">
     <h1>Pockio</h1>
     <h2>Kids Money Jars</h2>
