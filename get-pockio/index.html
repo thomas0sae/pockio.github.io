@@ -51,8 +51,6 @@
     .store-button {
       padding: 15px 40px;
       font-size: 1.1em;
-      background: rgba(255,255,255,0.9);
-      color: #667eea;
       border: none;
       border-radius: 8px;
       cursor: pointer;
@@ -62,9 +60,22 @@
       display: inline-block;
     }
     .store-button:hover {
-      background: white;
       transform: scale(1.05);
       box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+    }
+    .store-button.appstore {
+      background: #000000;
+      color: #ffffff;
+    }
+    .store-button.appstore:hover {
+      background: #1a1a1a;
+    }
+    .store-button.playstore {
+      background: #01875f;
+      color: #ffffff;
+    }
+    .store-button.playstore:hover {
+      background: #019d6e;
     }
   </style>
 </head>
@@ -90,11 +101,11 @@
     <h2>Kids Money Jars</h2>
     <p>Pockio is already available on iOS and Android. Download Today!</p>
     <div class="button-container">
-      <a href="https://apps.apple.com/us/app/pockio-family-money-chores/id6758463658" class="store-button">
-        📱 Download on App Store
+      <a href="https://apps.apple.com/us/app/pockio-family-money-chores/id6758463658" class="store-button appstore">
+         Download on App Store
       </a>
-      <a href="https://play.google.com/store/apps/details?id=com.pockio.money.jar" class="store-button">
-        🤖 Get on Google Play
+      <a href="https://play.google.com/store/apps/details?id=com.pockio.money.jar" class="store-button playstore">
+        ▶ Get on Google Play
       </a>
     </div>
   </div>
