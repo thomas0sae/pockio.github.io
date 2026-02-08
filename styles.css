@@ -209,37 +209,6 @@ nav {
   font-size: 1.1rem;
 }
 
-.btn-appstore {
-  background: #000000;
-  color: var(--white);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-}
-
-.btn-appstore:hover {
-  background: #1a1a1a;
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
-}
-
-.btn-appstore i {
-  font-size: 1.2em;
-}
-
-.btn-playstore {
-  background: linear-gradient(135deg, #01875f 0%, #00a86b 100%);
-  color: var(--white);
-  box-shadow: 0 4px 15px rgba(1, 135, 95, 0.4);
-}
-
-.btn-playstore:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(1, 135, 95, 0.5);
-}
-
-.btn-playstore i {
-  font-size: 1.1em;
-}
-
 .hero-stats {
   display: flex;
   gap: 2.5rem;
@@ -603,26 +572,6 @@ nav {
 
 .cta-buttons .btn-secondary:hover {
   background: rgba(255, 255, 255, 0.1);
-}
-
-.cta-buttons .btn-appstore {
-  background: var(--white);
-  color: #000000;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-}
-
-.cta-buttons .btn-appstore:hover {
-  background: #f0f0f0;
-}
-
-.cta-buttons .btn-playstore {
-  background: var(--white);
-  color: #01875f;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-}
-
-.cta-buttons .btn-playstore:hover {
-  background: #f0f0f0;
 }
 
 /* Footer */
