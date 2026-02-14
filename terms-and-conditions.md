@@ -36,7 +36,7 @@ To access the Website or App, a parent or guardian must first register and creat
 
 Once you complete the registration and create Your Account, you become a user of Pockio. However, we reserve the right to suspend users who violate these terms or misuse the service. Please note that Pockio does not accept any responsibility for the login credentials used to access the service, and you assume sole responsibility for all activities that occur under your account.
 
-By registering with Pockio, you grant us permission to send you notifications related to your account activities. If you suspect that your account has been compromised, and someone other than you has accessed it, please contact <support@koottali.app> from your registered email address to request the removal of your account.
+By registering with Pockio, you grant us permission to send you notifications related to your account activities. If you suspect that your account has been compromised, and someone other than you has accessed it, please contact <pockio.support@pockio.app> from your registered email address to request the removal of your account.
 
 ### Usage Guidelines
 
@@ -58,7 +58,7 @@ The App may offer premium features, subscriptions, or products for sale. If you 
 
 ### Refunds
 
-All sales of products or services are final and non-refundable unless otherwise stated in the App or required by applicable law. If you believe you are entitled to a refund, please contact <support@koottali.app> for further assistance.
+All sales of products or services are final and non-refundable unless otherwise stated in the App or required by applicable law. If you believe you are entitled to a refund, please contact <pockio.support@pockio.app> for further assistance.
 
 ### Intellectual Property
 
@@ -82,4 +82,4 @@ The App reserves the right to modify these Terms and Conditions at any time with
 
 ### Contact
 
-If you have any questions or concerns about these Terms and Conditions or the App, please contact us at <support@koottali.app>
+If you have any questions or concerns about these Terms and Conditions or the App, please contact us at <pockio.support@pockio.app>

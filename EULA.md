@@ -158,7 +158,7 @@ Your Contributions do not otherwise violate, or link to material that violates, 
 Any use of the Licensed Application in violation of the foregoing violates this License Agreement and may result in, among other things, termination or suspension of your rights to use the Licensed Application.
 
 7. PUSH NOTIFICATIONS; LOCATION-BASED FEATURES
-   We may provide you with emails, text messages, push notifications, alerts and other messages related to the App and/or the Pockio services, such as enhancements, offers, products, events, and other promotions. After downloading the App, you will be asked to accept or deny push notifications/alerts. If you deny, you will not receive any push notifications/alerts. If you accept, push notifications/alerts will be automatically sent to you. If you no longer wish to receive push notifications/alerts from the App, you may opt out by changing your notification settings on your mobile device. With respect to other types of messaging or communications, such as emails, text messages, etc., you can unsubscribe or opt out by either following the specific instructions included in such communications, or by emailing us with your request at <support@koottali.app>
+   We may provide you with emails, text messages, push notifications, alerts and other messages related to the App and/or the Pockio services, such as enhancements, offers, products, events, and other promotions. After downloading the App, you will be asked to accept or deny push notifications/alerts. If you deny, you will not receive any push notifications/alerts. If you accept, push notifications/alerts will be automatically sent to you. If you no longer wish to receive push notifications/alerts from the App, you may opt out by changing your notification settings on your mobile device. With respect to other types of messaging or communications, such as emails, text messages, etc., you can unsubscribe or opt out by either following the specific instructions included in such communications, or by emailing us with your request at <pockio.support@pockio.app>
 
 The App may allow access to or make available opportunities for you to view certain content and receive other products, services and/or other materials based on your location. To make these opportunities available to you, the App will determine your location using one or more reference points, such as GPS, Bluetooth and/or software within your mobile device. If you have set your mobile device to disable GPS, Bluetooth or other location determining software or do not authorize the App to access your location data, you will not be able to access such location-specific content, products, services and materials.
 
@@ -196,7 +196,7 @@ You represent and warrant that You are not located in a country that is subject 
 
 Tech Support
 
-<support@koottali.app>
+<pockio.support@pockio.app>
 
 13. TERMINATION
     The license is valid until terminated by Emwave Technologies Private Limited or by You. Your rights under this license will terminate automatically and without notice from Emwave Technologies Private Limited if You fail to adhere to any term(s) of this license. Upon License termination, You shall stop all use of the Licensed Application, and destroy all copies, full or partial, of the Licensed Application.

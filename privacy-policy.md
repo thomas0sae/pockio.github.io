@@ -68,7 +68,7 @@ We will only disclose your Personal Data to third parties if there is a legal ob
 
 **Your email address will be used to:** inform you of your membership status; notify you of other relevant activity regarding Your Account; engage you with the application through newsletters and for troubleshooting.
 
-**SMS from Pockio:** By registering you give us permission to send you SMS notifications. If you wish to not receive them, please mail us at support@koottali.app
+**SMS from Pockio:** By registering you give us permission to send you SMS notifications. If you wish to not receive them, please mail us at pockio.support@pockio.app
 
 **Your geolocation:** We will share your current location to make it insightful for our users who may live or work nearby. We will never share your zip code with other users of Pockio. You can choose to share your geolocation, which is necessary to see which other users of Pockio are nearby at any given moment. Your geolocation will be shared with other users who have shared their geolocation. Please note that we never share accurate geolocations with Pockio users - the accuracy is limited to 0.5 kilometers at the most.
 
@@ -91,7 +91,7 @@ If you refer a friend to Pockio, you will send an email message, Whatsapp messag
 We try our best to ensure that your Personal Data is protected and secure from unauthorized or unlawful access, alteration, disclosure, use or destruction. We encrypt our services using SSL, the data is accessible only through a secret password and digital signatures, and our employees only have access to your data on a need-to-know basis. Unfortunately, the transmission of information via the internet is not always completely secure. Although we take all reasonable measures, we cannot guarantee the security of the data you transmit to our Website or App; any transmission is at your own risk.
 
 ### How long do we retain your personal data?
-Your Personal Data is retained no longer than strictly necessary or as long as allowed by law, whichever is shorter. In the event that you have not logged in to your profile for five years, your Personal Data may be erased from our records. Of course, you can always contact our support team at support@koottali.app through your registered email address with a request to delete your data from our records.
+Your Personal Data is retained no longer than strictly necessary or as long as allowed by law, whichever is shorter. In the event that you have not logged in to your profile for five years, your Personal Data may be erased from our records. Of course, you can always contact our support team at pockio.support@pockio.app through your registered email address with a request to delete your data from our records.
 
 ### Changes to this privacy policy
 We are constantly looking for new ways to improve Pockio and we may unilaterally update this Privacy Policy from time to time. When there is a significant change in this Privacy Policy, you will see a pop up in the app which you will have to accept before you can continue to use Pockio.
@@ -103,7 +103,7 @@ You can also view, edit or delete your Personal Data by logging in to your Pocki
 
 When you delete your account, your personal data is deleted after this retention window. We only retain your email address and phone number in order to be able to contact you with regard to payment matters. For internal use, we may store generic, non-personal data regarding your activity as a user (number of people invited, number of logins, term of your subscription, payment method, etc).
 
-Pockio shall not collect data from minors. Should a Member lie about his/her date of birth, and particularly if he/she fraudulently claims to be over 18 years of age, the parents of the minor in question should inform Pockio of this by sending an email to team@Koottali.in, requesting the data to be deleted. Pockio commits to deleting all data on the minor in question as soon as possible.
+Pockio shall not collect data from minors. Should a Member lie about his/her date of birth, and particularly if he/she fraudulently claims to be over 18 years of age, the parents of the minor in question should inform Pockio of this by sending an email to pockio.support@pockio.app, requesting the data to be deleted. Pockio commits to deleting all data on the minor in question as soon as possible.
 
 When registering, the Member expressly consents to his/her data being transmitted to Pockio service providers and subcontractors outside of the Member's country of residence, to let Pockio run statistical studies, support users, and if need be, host data processed by the Application.
 
@@ -119,6 +119,6 @@ Who are we?
 
 Pockio, the accompanying website https://pockio.app and app are owned by Emwave Technologies Private Limited. We reserve the right, at our discretion, to make changes to the terms of use and privacy policy at any time. The most updated version is available on our App and Website at all times. Please check the terms of use and privacy policy periodically for changes as all modifications are effective upon publication. Continued use of the Pockio app and website after revision indicates the user's acceptance of the terms of use and privacy policy.
 
-In case you come across suspicious activity, immediately notify us at support@koottali.app
+In case you come across suspicious activity, immediately notify us at pockio.support@pockio.app
 
 
